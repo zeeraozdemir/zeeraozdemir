@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zehra Özdemir</h1>
-<h3 align="center">Electric-Electronic Engineering Student</h3>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **zeeraozdemir@gmail.com**
