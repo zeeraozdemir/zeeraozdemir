@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zehra Özdemir</h1>
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me **zeeraozdemir@gmail.com**
 
